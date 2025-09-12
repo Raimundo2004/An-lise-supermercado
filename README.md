@@ -1,6 +1,6 @@
 📊 Análise de Vendas de uma Rede de Supermercados
 
-Este projeto tem como objetivo analisar o desempenho de uma rede de supermercados no estado de Mianmar, aplicando técnicas de análise descritiva e diagnóstica para identificar padrões e insights relevantes nos dados.
+Este projeto tem como objetivo analisar o desempenho de uma rede de supermercados fícticios no estado de Mianmar, aplicando técnicas de análise descritiva e diagnóstica para identificar padrões e insights relevantes nos dados.
 
 Ao longo do projeto, desenvolvi minhas habilidades em:
 
