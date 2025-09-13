@@ -1,13 +1,37 @@
-📊 Análise de Vendas de uma Rede de Supermercados
+# 📊 Análise de Vendas de uma Rede de Supermercados  
 
-Este projeto tem como objetivo analisar o desempenho de uma rede de supermercados fícticios no estado de Mianmar, aplicando técnicas de análise descritiva e diagnóstica para identificar padrões e insights relevantes nos dados.
+Este projeto tem como objetivo analisar o desempenho de uma **rede de supermercados fictícia no estado de Mianmar**, aplicando técnicas de **análise descritiva e diagnóstica** para identificar padrões e gerar insights relevantes sobre o comportamento dos clientes e a performance de vendas.  
 
-Ao longo do projeto, desenvolvi minhas habilidades em:
+---
 
-Manipulação e análise de dados com Pandas e NumPy
+## 🎯 Objetivos
+- Praticar manipulação e limpeza de dados.  
+- Analisar métricas de **vendas, faturamento e comportamento do consumidor**.  
+- Visualizar diferenças entre **unidades e cidades**.  
+- Identificar padrões relacionados a **produtos, categorias e perfil de clientes**.  
+- Consolidar habilidades em **análise exploratória de dados (EDA)**.  
 
-Visualização e interpretação de informações utilizando Matplotlib e Seaborn
+---
 
-Geração de insights a partir de métricas de vendas, faturamento e comportamento dos clientes
+## 🛠️ Ferramentas e Tecnologias
+- **Python**  
+- **Pandas** e **NumPy** → manipulação e análise dos dados  
+- **Matplotlib** e **Seaborn** → visualização dos dados  
+- **Jupyter Notebook**  
 
-Os resultados obtidos permitiram compreender diferenças entre unidades, preferências de produtos e variações no faturamento, demonstrando a importância da análise de dados para apoiar decisões estratégicas.
+---
+
+## 📊 Resultados Principais
+- Diferenças significativas de faturamento entre as unidades da rede.  
+- Identificação de **categorias de produtos mais rentáveis**.  
+- Clientes com diferentes perfis de consumo, influenciando diretamente no ticket médio.  
+- Variações mensais de vendas, mostrando sazonalidade no comportamento de compra.  
+
+Esses resultados reforçam a importância da análise de dados para **tomada de decisões estratégicas no varejo**.  
+
+---
+
+## 📌 Próximos Passos
+- Criar indicadores de performance (KPIs) personalizados para cada unidade.  
+- Aplicar **modelos preditivos de séries temporais** para estimar faturamento futuro.  
+- Comparar o comportamento dos clientes por **gênero, faixa etária e cidade**.  
