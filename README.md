@@ -28,10 +28,3 @@ Este projeto tem como objetivo analisar o desempenho de uma **rede de supermerca
 - Variações mensais de vendas, mostrando sazonalidade no comportamento de compra.  
 
 Esses resultados reforçam a importância da análise de dados para **tomada de decisões estratégicas no varejo**.  
-
----
-
-## 📌 Próximos Passos
-- Criar indicadores de performance (KPIs) personalizados para cada unidade.  
-- Aplicar **modelos preditivos de séries temporais** para estimar faturamento futuro.  
-- Comparar o comportamento dos clientes por **gênero, faixa etária e cidade**.  
